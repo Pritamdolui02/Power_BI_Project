@@ -57,14 +57,6 @@ This Power BI project presents a comprehensive sales analysis dashboard built to
 - **Laptop** is the best-selling product (~181K)  
 - Followed by Headphones (~151K) and Tablet (~86K)  
 
-## 🚀 How to Use
-1. Download the `.pbix` file  
-2. Open in Power BI Desktop  
-3. Use slicers (Region & Category) for filtering  
-4. Interact with visuals for deeper insights  
-
-## 📸 Dashboard Preview
-
 
 ---
 
